@@ -1,2 +1,1 @@
 # AphirakCode677
-[MYCODE]
