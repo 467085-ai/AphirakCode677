@@ -1,8 +1,6 @@
-print("hello bro")
-print(".........")
-num1=float(input("enter number1;"))
-num2=int(input("enter number2;"))
-sum=num1+num2
-print("total is:",sum)
-print("ผู้พัฒนาโปรแกรม คือ ครูสุมามาลย์")
-
+print("โปรเเกรมหาพื้นที่สามเหลี่ยม")
+print(".....................")
+tall = float(input("enter hieght"))
+base = float(input("enter base"))
+areatri = 0.5*tall*base
+print("พื้นที่สามเหลี่ยม =",areatri)
